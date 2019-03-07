@@ -2,3 +2,4 @@ Ho :VUONG
 TEN: THONG
 NAM SINH:99
 TRUONG: DAI HOC CONG NGHIEP GO VAP
+You are your own definition 
